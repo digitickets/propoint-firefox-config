@@ -1,7 +1,9 @@
 Put these 2 files:
-* autoconfig.js
-* mozilla.cfg
-in the directory:
+* `autoconfig.js`
+* `mozilla.cfg`
+
+
+In the directory:
 
     C:\Program Files\Mozilla Firefox\defaults\pref
 
