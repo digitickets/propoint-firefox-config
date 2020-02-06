@@ -1,3 +1,4 @@
-// This file tells Firefox to load our settings from mozilla.cfg. Why you do that instead of just putting them here I don't know, but every guide says to do it this way.
-pref("general.config.filename", "mozilla.cfg");
-pref("general.config.obscure_value", 0);
+// Firefox settings for ProPoint
+pref("print.always_print_silent", true);
+pref("dom.successive_dialog_time_limit", 0);
+pref("dom.max_script_run_time", 100);
